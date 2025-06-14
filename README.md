@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Kamil – aka mexicode-dev
 
-<!--
-**mexicode-dev/mexicode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a junior full-stack developer, learning by building.  
+🐍 Python enthusiast focused on Django, FastAPI and web backends.  
+🌐 Learning React & frontend development to become fully full-stack.  
+🚀 Open to freelance, B2B and remote collaboration in the near future.
 
-Here are some ideas to get you started:
+## 🧰 Tech I'm using
+- Backend: Python, Django, FastAPI, PostgreSQL
+- Frontend: HTML, CSS, JS, React (in progress)
+- Tools: Git, GitHub, Docker, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects in progress
+- Personal portfolio site (soon live on [mexicode.dev](https://mexicode.dev))
+- Task manager app (API + frontend)
+- Dev blog (coming soon)
+
+## 📫 Contact me
+- Email: kamil.galazka@mexicode.dev
+- LinkedIn: [linkedin.com/in/mexicode-dev](https://linkedin.com/in/mexicode-dev)
+
+Thanks for visiting! 🚀
