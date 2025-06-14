@@ -17,6 +17,6 @@
 
 ## 📫 Contact me
 - Email: kamil.galazka@mexicode.dev
-- LinkedIn: [linkedin.com/in/mexicode-dev](https://linkedin.com/in/mexicode-dev)
+- LinkedIn: [linkedin.com/in/mexicode-dev](https://www.linkedin.com/in/kamil-galazka/)
 
 Thanks for visiting! 🚀
