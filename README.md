@@ -49,7 +49,7 @@
 ## 📫 Contact
 
 **Email:** kamil.galazka@mexicode.dev  
-**LinkedIn:** [linkedin.com/in/mexicode-dev](www.linkedin.com/in/kamil-galazka)
+**LinkedIn:** [https://www.linkedin.com/in/kamil-galazka](https://www.linkedin.com/in/kamil-galazka)
 
 Let’s connect if you're interested in:
 - 🚀 Product collaboration
