@@ -1,22 +1,57 @@
-# 👋 Hi, I'm Kamil – aka mexicode-dev
+# Hi, I'm Kamil – Full-Stack Developer & Founder of mexicode.dev 🚀
 
-🎯 I'm a junior full-stack developer, learning by building.  
-🐍 Python enthusiast focused on Django, FastAPI and web backends.  
-🌐 Learning React & frontend development to become fully full-stack.  
-🚀 Open to freelance, B2B and remote collaboration in the near future.
+🎯 I design, build and launch full-featured web & mobile applications from idea to deployment.  
+💼 I'm building a personal studio – **mexicode.dev** – focused on practical, scalable solutions for real-life problems.  
+📱 Currently working on: **DriveConnect** – a national app for driving instructors & schools in Poland.
 
-## 🧰 Tech I'm using
-- Backend: Python, Django, FastAPI, PostgreSQL
-- Frontend: HTML, CSS, JS, React (in progress)
-- Tools: Git, GitHub, Docker, Linux, VS Code
+---
 
-## 🔭 Projects in progress
-- Personal portfolio site (soon live on [mexicode.dev](https://mexicode.dev))
-- Task manager app (API + frontend)
-- Dev blog (coming soon)
+## 🧠 What I do
 
-## 📫 Contact me
-- Email: kamil.galazka@mexicode.dev
-- LinkedIn: [linkedin.com/in/mexicode-dev](https://www.linkedin.com/in/kamil-galazka/)
+- Build modern web applications using React, Tailwind, Node.js, and MongoDB
+- Extend functionality to mobile platforms using React Native
+- Learn through real product development (DriveConnect, Garden Manager, ScandiTravel)
+- Focus on UX, business logic, clean architecture, and scalability
 
-Thanks for visiting! 🚀
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+`HTML`, `CSS`, `JavaScript`, `React`, `Tailwind CSS`, `React Native`
+
+**Backend:**  
+`Node.js`, `Express`, `MongoDB`  
+(*Python & Django coming later – for scalable backend expansion*)
+
+**Tools & DevOps:**  
+`Git`, `GitHub`, `Vercel`, `Render`, `Figma`, `VS Code`, `Linux`
+
+---
+
+## 🚧 Projects in Progress
+
+- **DriveConnect** – Platform for driving instructors & students with smart scheduling and profiles  
+- **Garden Manager** – IoT-ready app for monitoring home gardens and greenhouses  
+- **ScandiTravel** – Route planner and travel journal for Nordic expeditions  
+- **mexicode.dev** – My portfolio & studio website (in design)
+
+---
+
+## 📈 Learning Strategy
+
+- Following a structured weekly roadmap with tech stacks directly tied to app development
+- Publishing [weekly learning notes](https://github.com/mexicode-dev/learning-notes) as transparent documentation
+- Combining course theory with immediate application in real-world products
+
+---
+
+## 📫 Contact
+
+**Email:** kamil.galazka@mexicode.dev  
+**LinkedIn:** [linkedin.com/in/mexicode-dev](https://linkedin.com/in/mexicode-dev)
+
+Let’s connect if you're interested in:
+- 🚀 Product collaboration
+- 🤝 B2B partnerships
+- 🧩 Building meaningful tech with purpose
